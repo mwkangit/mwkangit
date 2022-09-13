@@ -31,7 +31,7 @@
 <div align="center" style="font-size:30px;">
   :green_heart: <strong>Infrastructure</strong> :green_heart:
 </div>
---------
+
 
 <div align="center" style="font-size:30px;"><img alt="Python" src ="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white"/><img alt="Python" src ="https://img.shields.io/badge/Github Actions-2088FF.svg?&style=for-the-badge&logo=Github Actions&logoColor=white"/><img alt="Python" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/></div>
 <br>
@@ -54,7 +54,7 @@
 </div>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=mwkangit&show_icons=true&theme=radical" align="center">
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mwkangit&show_icons=true&theme=radical" align="center"></div>
 
 
 
