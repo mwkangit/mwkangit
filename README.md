@@ -1,9 +1,9 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
-<div align="center">###:fire:
-  Tech Stack
-</div> :fire:
+<div align="center" style="font-size:30px;">
+  :fire: <strong>Tech Stack</strong> :fire:
+</div>
 
 <!--
 **mwkangit/mwkangit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
